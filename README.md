@@ -3,6 +3,10 @@
 This project detects groups of people forming crowds in a video using **YOLOv5** and **OpenCV**. It identifies when 3 or more people are standing close together across multiple frames and reports the crowd size in real time.
 
 ---
+For video transformation we have to use this linux code  
+ffmpeg -i input_video.mp4 -c:v libx264 -preset fast -crf 23 -c:a aac converted_video.mp4
+
+
 
 ## 📌 Features
 
