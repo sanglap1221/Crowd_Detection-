@@ -23,14 +23,6 @@ This project detects groups of people forming crowds in a video using **YOLOv5**
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR_USERNAME/crowd-detection-yolov5.git
-cd crowd-detection-yolov5
-
 
 For output we have to run python _name of the file.py
 ![Screenshot from 2025-05-20 09-42-45](https://github.com/user-attachments/assets/f089f348-7c23-4bb7-9b06-5f6411274345)
